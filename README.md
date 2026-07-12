@@ -1,5 +1,12 @@
 # sp500-market-valuation-analysis
-Exploratory analysis of S&P 500 market valuation using Python, Yahoo Finance API, and interactive visualizations.# What Drives Market Valuation in the S&P 500?
+Exploratory analysis of S&P 500 market valuation using Python, Yahoo Finance API, and interactive visualizations.
+
+
+# What Drives Market Valuation in the S&P 500?
+
+![Interactive Treemap of S&P 500 Market Capitalization](images/treemap.png)
+
+## Project Overview
 
 ## Project Overview
 
